@@ -14,9 +14,55 @@ I also handle **API integrations** using the `fetch` method, ensuring seamless c
 
 Here on GitHub, I share my projects, studies, and achievements, reflecting my growth as a fullstack developer.
 
-![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-orange?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express%20%2B%20SQL-gold?style=for-the-badge)
-![APIs](https://img.shields.io/badge/Integrations-API%20fetch-orange?style=for-the-badge)
+<p align="left">
+
+  <!-- Frontend -->
+  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 10px;">
+    <strong style="margin-bottom: 5px;">Frontend:</strong>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+      </a>
+      <a href="https://react.dev/">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- Backend -->
+  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 10px;">
+    <strong style="margin-bottom: 5px;">Backend:</strong>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <a href="https://nodejs.org/en/docs/">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/>
+      </a>
+      <a href="https://expressjs.com/">
+        <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" alt="Express"/>
+      </a>
+      <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+      </a>
+    </div>
+  </div>
+
+  <!-- Integrations -->
+  <div style="display: flex; flex-direction: column; align-items: flex-start;">
+    <strong style="margin-bottom: 5px;">Integrations:</strong>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API">
+        <img src="https://img.shields.io/badge/Fetch%20API-orange?style=for-the-badge&logo=javascript" alt="Fetch API"/>
+      </a>
+    </div>
+  </div>
+
+</p>
+
 
 ---
 
@@ -39,34 +85,43 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
     </a>
 </p>
 
-
 ---
 
 ### :wrench: Programming Languages & Tools
 
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Server-Node.js-339933?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git)
-![C](https://img.shields.io/badge/Code-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
 <p align="center">
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  </a>
+  <a href="https://react.dev/">
+    <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  </a>
 </p>
+
 
 ---
 
