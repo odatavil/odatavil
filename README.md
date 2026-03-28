@@ -53,6 +53,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git)
+![C](https://img.shields.io/badge/Code-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 <p align="center">
@@ -64,6 +65,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
   <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </p>
 
 ---
@@ -88,3 +90,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=odatavil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
+
+
