@@ -44,7 +44,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
         <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
       </a>
       <a href="https://react.dev/">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
       </a>
     </div>
   </div>
