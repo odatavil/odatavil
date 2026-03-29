@@ -11,7 +11,7 @@
 
 # :computer: Dyego (odatavil)
 
-### :briefcase: Position **`Junior Fullstack Developer`**
+### :briefcase: **`Position: Junior Fullstack Developer`**
 
 <div  align="center" style="margin-bottom:25px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=odatavil&theme=radical&mode=weekly" />
@@ -23,7 +23,7 @@ Passionate about technology and innovation, I work on building creative and func
 
 ---
 
-### :rocket: Tech Stack
+### :rocket: **`Tech Stack`**
 
 I have experience in **Frontend** with **HTML, CSS, and JavaScript**, creating responsive and user-friendly interfaces.  
 On the **Backend**, I develop with **Node.js + Express** and **SQL**, building robust APIs and integrating systems efficiently.  
@@ -83,7 +83,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
 
 ---
 
-### :pushpin: Profile Metrics
+### :pushpin: **`Profile Metrics`**
 
 <p align="left">
     <a href="https://github.com/odatavil?tab=repositories&sort=stargazers">
@@ -104,7 +104,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
 
 ---
 
-### :wrench: Programming Languages & Tools
+### :wrench: **`Programming Languages & Tools`**
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
