@@ -131,30 +131,11 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
   </a>
 </p>
 
-
 ---
-
-
 
 ### :bar_chart: Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=odatavil&show_icons=true&theme=tokyonight&count_private=true" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=odatavil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
-
-
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=odatavil&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=odatavil&show_icons=true&theme=radical&layout=compact" />
+ </div>
