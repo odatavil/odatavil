@@ -54,13 +54,13 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
     <strong style="margin-bottom: 5px;">Backend:</strong>
     <div style="display: flex; gap: 8px; flex-wrap: wrap;">
       <a href="https://nodejs.org/en/docs/">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
       </a>
       <a href="https://expressjs.com/">
         <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" alt="Express"/>
       </a>
       <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       </a>
     </div>
   </div>
