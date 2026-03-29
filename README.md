@@ -1,6 +1,9 @@
 <!-- <img align="center" style="margin-bottom:5px" width=100% src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VoZXZrM21hNTlheGQ2N2FicmVsaTlybzRldW1iMXp3ZzBtOWRwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bk8UGCysurqC2gmJ0o/giphy.gif" /> -->
 
-<img align="center" style="margin-bottom:5px" width=100% src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFkdzdxZ3UxbWJtcHkyOWUwd25xbTc0cTl3YWRiNHNjYWVpMDE4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" />
+<p align="center">
+  <img style="margin-bottom:5px" width="80%" src="https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" />
+</p>
+
 
 &nbsp;
 
