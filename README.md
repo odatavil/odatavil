@@ -13,11 +13,10 @@
 
 ### :briefcase: **`Position: Junior Fullstack Developer`**
 
-<div  align="center" style="margin-bottom:25px">
+<div  align="center" style="margin-bottom:80px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=odatavil&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=odatavil&show_icons=true&theme=radical&layout=compact" />
  </div>
-
 
 Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks.
 
