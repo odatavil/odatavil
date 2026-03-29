@@ -9,14 +9,18 @@
 </p>
 
 
-
-&nbsp;
-
 # :computer: Dyego (odatavil)
+
+### :briefcase: Position
 
 **`Junior Fullstack Developer`**
 
 Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks.
+
+<div  align="center" style="margin-bottom:25px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=odatavil&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=odatavil&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 ---
 
@@ -137,10 +141,4 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
 </p>
 
 ---
-
-### :bar_chart: Estatísticas
-
-<div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=odatavil&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=odatavil&show_icons=true&theme=radical&layout=compact" />
- </div>
+&nbsp;
