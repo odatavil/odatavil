@@ -13,7 +13,20 @@
 
 ### :briefcase: Position
 
-**`Junior Fullstack Developer`**
+<!-- **`Junior Fullstack Developer`** -->
+
+<span style="
+  font-size:28px; 
+  font-weight:bold; 
+  font-family:monospace; 
+  color:#DAA520; 
+  background-color:#2f2f2f; 
+  padding:3px 8px; 
+  border-radius:4px;">
+  Junior Fullstack Developer
+</span>
+
+
 
 Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks.
 
