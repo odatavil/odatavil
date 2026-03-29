@@ -20,17 +20,19 @@
 
 &nbsp;
 
-Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks.
-
 ---
 
 ### :rocket: **`Tech Stack`**
 
-I have experience in **Frontend** with **HTML, CSS, and JavaScript**, creating responsive and user-friendly interfaces.  
+<!-- I have experience in **Frontend** with **HTML, CSS, and JavaScript**, creating responsive and user-friendly interfaces.  
 On the **Backend**, I develop with **Node.js + Express** and **SQL**, building robust APIs and integrating systems efficiently.  
 I also handle **API integrations** using the `fetch` method, ensuring seamless communication between applications.
 
 Here on GitHub, I share my projects, studies, and achievements, reflecting my growth as a fullstack developer.
+
+Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks. -->
+
+Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks.
 
 <p align="left">
 
