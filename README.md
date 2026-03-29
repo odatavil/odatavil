@@ -38,7 +38,7 @@ Here on GitHub, I share my projects, studies, and achievements, reflecting my gr
         <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5"/>
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS3"/>
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
