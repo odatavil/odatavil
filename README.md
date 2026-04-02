@@ -11,6 +11,7 @@
 
 # :computer: Dyego (odatavil)
 
+
 ### :briefcase: **`Position: Junior Fullstack Developer`**
 
 <div align="center" style="margin-bottom:0px">
@@ -34,8 +35,6 @@ I also handle **API integrations** using the `fetch` method, ensuring seamless c
 Here on GitHub, I share my projects, studies, and achievements, reflecting my growth as a fullstack developer.
 
 Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks. -->
-
-Passionate about technology and innovation, I work on building creative and functional solutions by exploring different stacks.
 
 <p align="left">
 
