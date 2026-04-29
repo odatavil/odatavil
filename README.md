@@ -4,9 +4,9 @@
   <img style="margin-bottom:5px" width="80%" src="https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img style="margin-bottom:5px" width="80%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NvcjQ1dGR6NzFwOHc0cjNmMTZpbmIyMXA3Nmp1d3RiMmp4NHdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-</p>
+</p> -->
 
 # :computer: Dyego (dyegovf)
 
