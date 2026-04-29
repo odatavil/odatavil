@@ -8,19 +8,16 @@
   <img style="margin-bottom:5px" width="80%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NvcjQ1dGR6NzFwOHc0cjNmMTZpbmIyMXA3Nmp1d3RiMmp4NHdicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </p>
 
-
-# :computer: Dyego (odatavil)
-
+# :computer: Dyego (dyegovf)
 
 ### :briefcase: **`Position: Junior Fullstack Developer`**
 
 <div align="center" style="margin-bottom:0px">
-  <a href="https://github.com/odatavil/odatavil">
-    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=odatavil&theme=radical&mode=weekly" />
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=odatavil&show_icons=true&theme=radical&layout=compact" />
+  <a href="https://github.com/dyegovf/dyegovf">
+    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dyegovf&theme=radical&mode=weekly" />
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=dyegovf&show_icons=true&theme=radical&layout=compact" />
   </a>
 </div>
-
 
 &nbsp;
 
@@ -28,8 +25,8 @@
 
 ### :rocket: **`Tech Stack`**
 
-<!-- I have experience in **Frontend** with **HTML, CSS, and JavaScript**, creating responsive and user-friendly interfaces.  
-On the **Backend**, I develop with **Node.js + Express** and **SQL**, building robust APIs and integrating systems efficiently.  
+<!-- I have experience in **Frontend** with **HTML, CSS, and JavaScript**, creating responsive and user-friendly interfaces.
+On the **Backend**, I develop with **Node.js + Express** and **SQL**, building robust APIs and integrating systems efficiently.
 I also handle **API integrations** using the `fetch` method, ensuring seamless communication between applications.
 
 Here on GitHub, I share my projects, studies, and achievements, reflecting my growth as a fullstack developer.
@@ -85,24 +82,23 @@ Passionate about technology and innovation, I work on building creative and func
 
 </p>
 
-
 ---
 
 ### :pushpin: **`Profile Metrics`**
 
 <p align="left">
-    <a href="https://github.com/odatavil?tab=repositories&sort=stargazers">
+    <a href="https://github.com/dyegovf?tab=repositories&sort=stargazers">
         <img 
             alt="Total Stars" 
             title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/odatavil?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/dyegovf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
-    <a href="https://github.com/odatavil?tab=followers">
+    <a href="https://github.com/dyegovf?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/odatavil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/dyegovf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
 </p>
@@ -145,6 +141,7 @@ Passionate about technology and innovation, I work on building creative and func
 </p>
 
 ---
+
 &nbsp;
 
 <picture>
